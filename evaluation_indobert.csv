@@ -1,0 +1,2 @@
+model,MAE,RMSE,ExactAccuracy,AccuracyTolerance,PE_MAE,EE_MAE,SI_MAE,FC_MAE
+IndoBERT,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
